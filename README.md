@@ -24,8 +24,8 @@
 <img alt="react-native" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></img>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="gif" src="https://camo.githubusercontent.com/cfdb3d3fd2a222ec34a50864e5868ead340d0b5cfc920ea0e80775a099a2658a/68747470733a2f2f692e696d6775722e636f6d2f4d5563565357342e676966.gif">
-  
+  <img align="right" alt="gif" 
+<img align="right" alt="GIF" src="https://i.imgur.com/MUcVSW4.gif"
 </div>
 
 ## Stats:
