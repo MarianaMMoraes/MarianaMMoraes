@@ -29,5 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaMMoraes)](https://github.com/MarianaMMoraes/github-readme-stats)
 
 # Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaMMoraes&show_icons=true&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaMMoraes&show_icons=true&theme=dracula)
 
