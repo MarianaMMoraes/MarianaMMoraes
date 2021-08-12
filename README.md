@@ -6,10 +6,10 @@
 <img align="center" alt="mariana-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="gif" 
+
+  
 <img align="right" alt="GIF" src="https://i.imgur.com/MUcVSW4.gif" width="200">
-</div>
+
 ## Conhecimento nas Tecnologias:
 <img alt="javascript" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></img>
 <img alt="c#" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></img>
