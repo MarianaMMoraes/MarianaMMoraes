@@ -1,6 +1,5 @@
- Hi there 👋
 
-### I'm Mariana Moraes!
+# Hi! I'm Mariana Moraes! 🤓
 
 ## Connect with me:
 <a href="http://linkedin.com/in/mariana-de-melo-moraes-1921a71a2" target="_blank">
@@ -28,7 +27,7 @@
   <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
-# Stats:
+## Stats:
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaMMoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
