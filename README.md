@@ -24,11 +24,9 @@
 <img alt="photoshop" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></img>
 <img alt="react-native" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></img>
 
-#
 <div style="display: inline_block"><br>
   <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
-
 
 # Stats:
 <div>
