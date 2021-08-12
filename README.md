@@ -25,6 +25,8 @@
 
 <div style="display: inline_block"><br>
   <img align="right" alt="gif" src="https://giphy.com/gifs/puppy-aww-corgi-ZjUjG4xgRiSOc.gif">
+  
+  <iframe src="https://giphy.com/embed/ZjUjG4xgRiSOc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/puppy-aww-corgi-ZjUjG4xgRiSOc">via GIPHY</a></p>
 </div>
 
 ## Stats:
