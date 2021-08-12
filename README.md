@@ -25,7 +25,7 @@
 
 <div style="display: inline_block"><br>
   <img align="right" alt="gif" 
-<img align="right" alt="GIF" src="https://i.imgur.com/MUcVSW4.gif" width="150">
+<img align="right" alt="GIF" src="https://i.imgur.com/MUcVSW4.gif" width="200">
 </div>
 
 ## Stats:
