@@ -26,11 +26,9 @@
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaMMoraes)](https://github.com/MarianaMMoraes/github-readme-stats)
+
 
 # Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaMMoraes&show_icons=true&theme=dracula)
-
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaMMoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
