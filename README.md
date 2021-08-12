@@ -1,5 +1,5 @@
 
-# Hi! I'm Mariana Moraes! :electron:
+# Hi! I'm Mariana Moraes! 😎
 
 ## Meus Contatos:
 <a href="http://linkedin.com/in/mariana-de-melo-moraes-1921a71a2" target="_blank">
